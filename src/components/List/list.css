@@ -1,0 +1,13 @@
+.list {
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+
+}
+
+li {
+    padding: 10px;
+    background-color: lightgrey; 
+    margin: 5px;
+    text-align: left;
+}
