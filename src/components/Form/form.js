@@ -1,6 +1,5 @@
 import React from "react";
 import "../Form/form.css";
-import { useState, uid } from "react";
 
 export default function Form({ onAddActivity }) {
   return (
